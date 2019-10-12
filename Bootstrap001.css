@@ -1,0 +1,13 @@
+body {
+    margin-top: 50px;
+  }
+  .carousel-inner img{
+    width:100%;
+    background-size: contain;  //不能使用cover,
+    background-repeat: no-repeat;  
+    background-position: center;  //图片居中
+  }
+   #pai{
+    font-family:Caflisch Script;
+    color : #808080
+  }
